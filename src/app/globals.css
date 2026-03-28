@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* إضافة ألوان براند Venix بطريقة v4 */
+@theme {
+  --color-venix-light: #3b82f6;
+  --color-venix: #1d4ed8;
+  --color-venix-dark: #1e3a8a;
+}
